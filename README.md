@@ -16,4 +16,4 @@ Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment
 conda install numpy, pandas=0.25, matplotlib
 
 ```
-Then run the notebook.
+Then run the `Predicting_bike_sharing.ipynb`.
