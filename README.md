@@ -4,16 +4,16 @@ This scratch Neural Network model predict the number of bikeshare users on given
 
 ## Technologies used:
 
-* Python, numpy, pandas
+* Python, numpy, 
+* pandas, matplotlib
 * Neural networks 
-* matplotlib
 * jupyter notebook, anaconda
 
 ## Installation
 
-Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment with python 3, install the following packages:
+Using [Anaconda](https://www.anaconda.com/products/individual) in an enviroment with python 3, install the following packages:
 ```
 conda install numpy, pandas=0.25, matplotlib
 
 ```
-Then run the `Predicting_bike_sharing.ipynb`.
+Then, run the Predicting_bike_sharing.ipynb
