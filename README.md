@@ -2,7 +2,7 @@
 
 This scratch Neural Network model predict the number of bikeshare users on given day. The aim of the project is to build a shallow neural network  in order to understand in depth how forward and backpropagation works. For that reason, no framework like pytorch or tensorflow was necessary.
 
-## Technologies used:
+### Technologies used:
 
 * Python, numpy, 
 * pandas, matplotlib
