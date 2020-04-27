@@ -1,18 +1,19 @@
 # Predicting bike sharing
 
-This scratch Neural Network model predict the number of bikeshare users on given day.
+This scratch Neural Network model predict the number of bikeshare users on given day. The aim of the project is to build a shallow neural network  in order to understand in depth how forward and backpropagation works. For that reason, no framework like pytorch or tensorflow was necessary.
 
 ## Technologies used:
 
-* Python, numpy
+* Python, numpy, pandas
 * Neural networks 
-* sklearn TSNE, matplotlib, seaborn
+* matplotlib
 * jupyter notebook, anaconda
 
 ## Installation
 
 Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment with python 3, install the following packages:
 ```
-conda install numpy, conda install pandas=0.25, matplotlib, seaborn
+conda install numpy, pandas=0.25, matplotlib
 
 ```
+Then run the notebook.
