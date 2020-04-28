@@ -4,7 +4,7 @@ This scratch Neural Network model predict the number of bikeshare users on given
 
 ### Technologies used:
 
-* Python, numpy, 
+* Python, numpy 
 * pandas, matplotlib
 * Neural networks 
 * jupyter notebook, anaconda
